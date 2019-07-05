@@ -1,0 +1,27 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next/dist/pages/_app": 0,
+      "multi next/dist/pages/_error": 1,
+      "multi next/dist/pages/_document": 2,
+      "multi private-next-pages/buttons.js": 3,
+      "multi private-next-pages/card.js": 4,
+      "multi private-next-pages/index.js": 5,
+      "multi private-next-pages/quote.js": 6
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6
+    }
+  },
+  "chunks": {
+    "byName": {},
+    "bySource": {},
+    "usedIds": []
+  }
+}
